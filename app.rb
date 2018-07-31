@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Everything hurts"
+    "Everything hurts. yassss"
   end
 
 end
